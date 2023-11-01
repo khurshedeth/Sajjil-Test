@@ -6,6 +6,8 @@ function App() {
         <li>about</li>
         <li>Services</li>
         <li>Contact</li>
+        <section>hero</section>
+        <section>footer</section>
       </ul>
     </div>
   );
